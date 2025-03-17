@@ -1,8 +1,7 @@
 ![I am SabbirSajjad](https://github.com/SabbirSajjad/project-1/blob/main/1711557638528-02.png)
 
 <h1 align="center">Hi 👋, I'm SabbirSajjad</h1>
-<h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
-<h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
+<h3 align="center">Programmer | Web Designer | Content Creator</h3>
 
 <div align="center">
 
