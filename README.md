@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![Profile views]([https://github.com/SabbirSajjad](https://github.com/SabbirSajjad))
+![Profile views](https://komarev.com/ghpvc/?username=SabbirSajjad&color=red)
 
 Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
